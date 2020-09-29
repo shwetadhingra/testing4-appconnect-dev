@@ -8,7 +8,7 @@
   <DevAppToken>AD13368</DevAppToken>
   <ProdAppId>AP13368</ProdAppId>
   <Description></Description>
-  <GitHubStatus>MASTER_INITIATE</GitHubStatus>
+  <GitHubStatus>IN_PROGRESS</GitHubStatus>
   <CreatedDate>2020-07-17T13:38:04</CreatedDate>
   <DisplaySequence>1</DisplaySequence>
   <isPublished>false</isPublished>
@@ -18,8 +18,8 @@
   <ChangedBy>system</ChangedBy>
   <IsSubscribable>false</IsSubscribable>
   <GitHubEnabled>true</GitHubEnabled>
-  <ChangedDate>2020-09-28T21:56:37</ChangedDate>
-  <GitHubMessage>GitHub job for master branch commit initiated</GitHubMessage>
+  <ChangedDate>2020-09-28T22:32:46</ChangedDate>
+  <GitHubMessage>GitHub job is processing in the background</GitHubMessage>
   <AuthType>Unconnected</AuthType>
   <RuleActionCategoryId></RuleActionCategoryId>
   <ImportMessage></ImportMessage>
@@ -235,6 +235,40 @@
     <RunWhenActivated>false</RunWhenActivated>
     <RunWhenSettingsChanged>false</RunWhenSettingsChanged>
     <RuleSetId key="true">520860</RuleSetId>
+    <ChangedBy>system</ChangedBy>
+   </ProductRuleSet>
+  </ApplicationVersion>
+  <ApplicationVersion>
+   <MajorVersion>6</MajorVersion>
+   <hasAction>false</hasAction>
+   <Name>testing3</Name>
+   <ReleaseState>PRIVATE</ReleaseState>
+   <VersionNotes>v6</VersionNotes>
+   <hasEvent>false</hasEvent>
+   <SuccessHtml></SuccessHtml>
+   <WelcomeHtml></WelcomeHtml>
+   <AppLandingPage></AppLandingPage>
+   <ChangedDate>2020-09-28T22:33:18</ChangedDate>
+   <ReturnHtml></ReturnHtml>
+   <CreatedDate>2020-09-28T22:33:18</CreatedDate>
+   <MinorVersion>0</MinorVersion>
+   <GitHubPRUrl></GitHubPRUrl>
+   <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
+   <Active>true</Active>
+   <EnvironmentId>505332</EnvironmentId>
+   <ProductId key="true">13376</ProductId>
+   <CreatedBy>837c5073-8357-43ab-861e-82fcb2775e27</CreatedBy>
+   <IntuitApplicationId>13368</IntuitApplicationId>
+   <ProductRuleSet>
+    <RuleSetType>DEFAULT</RuleSetType>
+    <CreatedBy>system</CreatedBy>
+    <ChangedDate>2020-09-28T22:33:18</ChangedDate>
+    <CreatedDate>2020-09-28T22:33:18</CreatedDate>
+    <ProductId key="true">13376</ProductId>
+    <RuleSetSubType></RuleSetSubType>
+    <RunWhenActivated>false</RunWhenActivated>
+    <RunWhenSettingsChanged>false</RunWhenSettingsChanged>
+    <RuleSetId key="true">520861</RuleSetId>
     <ChangedBy>system</ChangedBy>
    </ProductRuleSet>
   </ApplicationVersion>
